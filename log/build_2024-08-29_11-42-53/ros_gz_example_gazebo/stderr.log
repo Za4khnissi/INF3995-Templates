@@ -1,0 +1,17 @@
+[31mCMake Error at CMakeLists.txt:16 (find_package):
+  By not providing "Findignition-common4.cmake" in CMAKE_MODULE_PATH this
+  project has asked CMake to find a package configuration file provided by
+  "ignition-common4", but CMake did not find one.
+
+  Could not find a package configuration file provided by "ignition-common4"
+  with any of the following names:
+
+    ignition-common4Config.cmake
+    ignition-common4-config.cmake
+
+  Add the installation prefix of "ignition-common4" to CMAKE_PREFIX_PATH or
+  set "ignition-common4_DIR" to a directory containing one of the above
+  files.  If "ignition-common4" provides a separate development package or
+  SDK, be sure it has been installed.
+
+[0m
